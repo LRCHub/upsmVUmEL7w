@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "曇天",
+  "base_artist": "DOES",
+  "createdAt": "2025-12-05T02:35:12.518580Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/01_曇天_Does.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曇天 Demo",
+      "artist": "Does",
+      "has_synced": false,
+      "path": "select/02_曇天_Demo_Does.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_曇天_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/04_曇天_DOES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/05_曇天_DOES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/06_曇天_DOES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "曇天",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/07_曇天_DOES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "曇天 (第100〜125話 OP)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/08_曇天_(第100〜125話_OP)_Muray.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "曇天 - A Cloudy Sky",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/09_曇天_-_A_Cloudy_Sky_DOES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曇天",
+      "artist": "DOES",
+      "has_synced": false,
+      "path": "select/pl_01_曇天_DOES.txt"
+    }
+  ]
+}
